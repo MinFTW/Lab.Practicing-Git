@@ -1,2 +1,2 @@
-This is a repo for learning git
-Made some changes here
+This is a repo for learning git.
+Made some changes here.
